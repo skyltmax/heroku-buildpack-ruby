@@ -85,6 +85,8 @@
   - cba59b7559f1f806684b65654228d44fcda91a82
 - - "./repos/rails52/sprockets_asset_compile_true"
   - 98c6675cf97059278709cf75030e28063e0228d2
+- - "./repos/rails6/rails6-basic"
+  - b633fb14a58880bc21ccec4918af454fd5423843
 - - "./repos/rake/asset_precompile_fail"
   - 16f7834331d6bb3fc5c284130b14eb1ff74d99d5
 - - "./repos/rake/asset_precompile_not_found"
@@ -115,15 +117,13 @@
   - 39f4753b620f9ff427c547fd19f04c89f8441f6f
 - - "./repos/ruby/ruby_193_bad_patch_cedar_14"
   - 6948c1460c596f08c4642d616ae73a45dc0ae51a
-- - "./repos/ruby/ruby_193_jruby_17161"
-  - 130cbe4bc2d8325ecb6d450fb7f5f2248390f0f8
 - - "./repos/ruby/ruby_193_jruby_17161_jdk7"
   - c1b632f8a96cf9b902f5cdcd7a190d46544a8144
-- - "./repos/ruby/ruby_193_jruby_17161_jdk8"
-  - 01d90df2547488151f3add3b237f15e47e62a4e9
 - - "./repos/ruby/ruby_193_jruby_173"
   - a08e8b2cc61d08bd611accaa455dbcbfff80f831
 - - "./repos/ruby/ruby_193_jruby_176"
   - 9fcbc184cb386abc8784e9935d52d403e35c532c
+- - "./repos/ruby/ruby_193_jruby_1_7_27"
+  - 06d5e86180ff0e5b6894f823736cd649dcfebed4
 - - "./repos/ruby/ruby_25"
   - 0cb3df80d55b61e9417f2ac00adb06e15ae37982

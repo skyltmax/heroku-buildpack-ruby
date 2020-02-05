@@ -80,7 +80,7 @@ class LanguagePack::Rails51 < LanguagePack::Rails5
 
     puts 'Removing non-essential asset cache directories'
     FileUtils.remove_dir(default_assets_cache) if Dir.exist?(default_assets_cache)
-    FileUtils.remove_dir(NODE_MODULES_PATH) if Dir.exist?(NODE_MODULES_PATH)
+    # FileUtils.remove_dir(NODE_MODULES_PATH) if Dir.exist?(NODE_MODULES_PATH)
     FileUtils.remove_dir(YARN_CACHE_PATH) if Dir.exist?(YARN_CACHE_PATH)
     FileUtils.remove_dir(WEBPACKER_CACHE_PATH) if Dir.exist?(WEBPACKER_CACHE_PATH)
   end

@@ -6,7 +6,7 @@ class LanguagePack::Rails51 < LanguagePack::Rails5
   NODE_MODULES_PATH = 'node_modules'
   WEBPACKER_PACKS_PATH = 'public/packs'
   WEBPACKER_CACHE_PATH = 'tmp/cache/webpacker'
-  YARN_CACHE_PATH = '.cache/yarn'
+  YARN_CACHE_PATH = '~/.yarn-cache'
 
   # @return [Boolean] true if it's a Rails 5.1.x app
   def self.use?
